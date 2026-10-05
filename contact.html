@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+    <html lang = en>
+        <head>
+            <meta charset="utf-8">
+            <title>Contact Me / Zisong's Portfolio</title>
+            <meta name="viewport"
+                  content="width=device-width">
+
+            <link href="css/full.css"
+                  rel="stylesheet"
+                  type="text/css"
+                  media="only screen and (min-width:960px)">
+                  
+            <link href="css/tablet.css"
+                  rel="stylesheet"
+                  type="text/css"
+                  media="only screen and (min-width:481px) and (max-width:960px)">
+
+            <link href="css/phone.css"
+                  rel="stylesheet"
+                  type="text/css"
+                  media="only screen and (max-width:480px)">
+
+        </head>
+        <body>
+            <div id="wrapper">
+
+                <div id="banner">
+                    <header>
+                        <h1>Zisong's Portfolio</h1>
+                        <nav>
+                            <a href="index.html">Home</a>
+                            <a href="about.html">About Me</a>
+                            <a href="project.html">Project</a>
+                            <a href="contact.html">Contact Me</a>
+                        </nav>
+                        <select id ="view" name="view">
+                            <option value="full">Full Size</option>
+                            <option value="tablet">Tablet</option>
+                            <option value="mobile">Mobile</option>
+                        </select>
+                    </header>
+                </div>
+                <main>
+                    <section>
+                        <h2>Contact Me</h2>
+                        <p>Please fill out the form below to contact me.</p>
+
+                        <form>
+                            <label for="name">Name:</label>
+                            <input type="text" id="name" name="name" required>
+                            <label for="email">Email:</label>
+                            <input type="email" id="email" name="email" required>
+                            <label for="phone">Cell Number:</label>
+                            <input type="tel" id="phone" name="phone">
+                            <label for="comments">Comments:</label>
+                            <textarea id="comments" 
+                                      name="comments"
+                                      rows="5"
+                                      cols="30">
+                            </textarea>
+                            <input type="submit"
+                                   value="Submit">
+                        </form>
+                    </section>
+                </main>
+                <footer>
+                    <p>
+                        zisong.zhou@ontariotechu.net | github.com/zisong366
+                    </p>
+                </footer>
+        </body>
+    </html>

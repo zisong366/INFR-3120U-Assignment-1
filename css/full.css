@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body{
+    font-family:Verdana, Geneva, Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#banner {
+    min-height: 140px;
+    background-color :black;
+}
+
+header label {
+    color: white;
+    margin:10px;
+}
+
+h1 {
+    color: white;
+    margin: 0px;
+    padding: 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin :10px;
+}
+
+main {
+    min-height: 400px;
+    padding: 20px;
+}
+
+footer {
+    height: 80px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+form label{
+    display: block;
+    margin-top: 10px;
+} 
+
+form input{
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea {
+    display: block;
+    margin-bottom: 10px;
+}
