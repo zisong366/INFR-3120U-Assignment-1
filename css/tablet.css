@@ -11,7 +11,7 @@ body {
 }
 #banner {
     min-height: 120px;
-    background-color:black;
+    background: linear-gradient(to right, #013a40, #028090);
 }
 
 
@@ -39,7 +39,7 @@ img {
 
 footer { 
     min-height: 80px;
-    background-color: black;
+    background: linear-gradient(135deg, #028090, #013a40);
     color: white;
     padding :10px;
 }

@@ -13,7 +13,7 @@ body{
 
 #banner {
     min-height: 140px;
-    background-color :black;
+    background: linear-gradient(to right, #013a40, #028090);
 }
 
 
@@ -34,10 +34,10 @@ main {
 }
 
 footer {
-    height: 80px;
-    background-color: black;
+    min-height: 80px;
     color: white;
     padding: 10px;
+    background: linear-gradient(135deg, #028090, #013a40);
 }
 
 img {
