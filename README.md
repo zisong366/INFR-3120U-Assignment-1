@@ -35,9 +35,18 @@ I chose these colors to create a consistent appearance across the website. Dark 
 3. Git and Github
 4. GitHub Pages
 
-# External Code and References
-[List any external code or resources used, with their sources. If none were used, state that.]
+# References
+## Course Materials
+  1. Week 3: Responsive Web Design, Fluid Design, and Media Queries.
+  2. Week 4: HTML and CSS examples provided in class.
+## Online Learning Resources
+  1. W3Schools. HTML Tutorial. https://www.w3schools.com/html/
+  2. W3Schools. CSS Tutorial. https://www.w3schools.com/css/
+  3. W3Schools. HTML Responsive Web Design. https://www.w3schools.com/html/html_responsive.asp
+  4. MDN Web Docs. Using Media Queries. https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using
+  5. World Wide Web Consortium (W3C). Validators and Tools. https://www.w3.org/developers/tools/
+
 
 # Website
-## Live website: [Add your GitHub Pages URL after deployment]
+## Live website: https://github.com/zisong366/INFR-3210U-Assignment-1
 ## GitHub repository: https://github.com/zisong366/INFR-3210U-Assignment-1.git
