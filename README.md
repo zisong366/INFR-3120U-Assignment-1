@@ -24,8 +24,8 @@ These gradients are applied through the CSS stylesheets.
 # Color Scheme
 I selected a teal-based color palette using Adobe Color.
 
-## Color harmony: [Enter the harmony you actually selected]
-## Colors: [Enter the hex codes from your saved Adobe Color palette]
+## Color harmony: Analogous
+## Colors: #013a40, #028090, #22d7d7, #f4f9f9, #222222
 
 I chose these colors to create a consistent appearance across the website. Dark teal provides contrast with white text, while lighter colors can be used for backgrounds and accents.
 
