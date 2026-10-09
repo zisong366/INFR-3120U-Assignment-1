@@ -40,4 +40,4 @@ I chose these colors to create a consistent appearance across the website. Dark 
 
 # Website
 ## Live website: [Add your GitHub Pages URL after deployment]
-## GitHub repository: [Add your repository URL]
+## GitHub repository: https://github.com/zisong366/INFR-3210U-Assignment-1.git
