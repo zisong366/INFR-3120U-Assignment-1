@@ -30,10 +30,10 @@ I selected a teal-based color palette using Adobe Color.
 I chose these colors to create a consistent appearance across the website. Dark teal provides contrast with white text, while lighter colors can be used for backgrounds and accents.
 
 # Technologies Used
-  HTML5
-  CSS3
-  Git and Github
-  GitHub Pages
+1. HTML5
+2. CSS3
+3. Git and Github
+4. GitHub Pages
 
 # External Code and References
 [List any external code or resources used, with their sources. If none were used, state that.]
